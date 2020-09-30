@@ -8,7 +8,7 @@ def fib(n): ## i am Creating A New Libarry so that basics Calculation can be mem
     else:
         x=fib(n-1)+fib(n-2)
         return x
-n=int(input("Enter value Lesser 10000:"))
+n=int(input("Enter Number Less Than 1000: "))
 for i in range(1,n+1):
     print(fib(i),end=" ")
     print()
