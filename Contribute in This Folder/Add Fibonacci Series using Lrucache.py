@@ -14,4 +14,4 @@ for i in range(1,n+1):
     print()
 print("To change the maxsize Change the max Size In Line 2 of the Code", end=" Thank You")
 ## Now for Any Value Whose size is Mentioned Above In Library, the calculation and output
-## effeciency is faster than usual Programs. Must use And Every Programmer Should Konw It.
+## effeciency is faster than usual Programs.Every Programmer Should Konw It.
